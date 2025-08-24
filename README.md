@@ -39,6 +39,8 @@ This repository provides annotation guidelines regarding collecting human annota
 ## 📣 Citation
 
 If you use Biased Tales, please cite:
+
+
 	```
 @misc{biased_tales_2025,
   title  = {Biased Tales: A Dataset of LLM-Generated Children's Stories with Bias-Focused Annotations},
