@@ -45,7 +45,7 @@ If you use Biased Tales, please cite:
   title  = {Biased Tales: Cultural and Topic Bias in Generating Children's Stories},
   author = {Donya Rooein, Vilém Zouhar, Debora Nozza, Dirk Hovy},
   year   = {2025},
-  url    = {}
+  url    = {COMING SOON}
 }
 ```
 
