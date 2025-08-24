@@ -41,11 +41,10 @@ This repository provides annotation guidelines regarding collecting human annota
 If you use Biased Tales, please cite:
 
 ```
-@misc{biased_tales_2025,
-  title  = {Biased Tales: A Dataset of LLM-Generated Children's Stories with Bias-Focused Annotations},
-  author = {Rooein, Donya and contributors},
+@inproceedings{{biased_tales_2025,
+  title  = {Biased Tales: Cultural and Topic Bias in Generating Children's Stories},
+  author = {Donya Rooein, Vilém Zouhar, Debora Nozza, Dirk Hovy},
   year   = {2025},
-  note   = {Dataset and guidelines},
   url    = {}
 }
 ```
