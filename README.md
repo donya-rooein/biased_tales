@@ -36,6 +36,9 @@ Each record corresponds to a single story and its metadata.
 ## 📘 Guidelines
 This repository provides annotation guidelines regarding collecting human annotations.
 
+👉 **Demo:** [Biased Tales Demo](https://donya-rooein.github.io/files/biased-tales-demo/index.html)
+
+
 ## 📣 Citation
 
 If you use Biased Tales, please cite:
