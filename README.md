@@ -33,8 +33,6 @@ Each record corresponds to a single story and its metadata.
 | `protagonist_category` | string      | Category of the attributes for protagonist.                                        |
 
 
-## 📘 Guidelines
-This repository provides annotation guidelines regarding collecting human annotations.
 
 👉 **Demo:** [Biased Tales Demo](https://donya-rooein.github.io/files/biased-tales-demo/index.html)
 
