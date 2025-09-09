@@ -1,6 +1,7 @@
 # Biased Tales 
 
-Welcome to the repository for the **Biased Tales** dataset and annotation guidelines.
+Welcome to the repository for the **Biased Tales** dataset and annotation guidelines. The dataset also available on Hugging Face:  
+👉 [Donya/biased_tales](https://huggingface.co/datasets/Donya/biased_tales)
 
 ## 📂 Dataset Overview
 The Biased Tales dataset aims to explore biases in children's stories. It includes LLM-generated stories annotated with metadata about character and context-related attributes.
@@ -35,6 +36,7 @@ Each record corresponds to a single story and its metadata.
 
 
 👉 **Demo:** [Biased Tales Demo](https://donya-rooein.github.io/files/biased-tales-demo/index.html)
+
 
 
 ## 📣 Citation
